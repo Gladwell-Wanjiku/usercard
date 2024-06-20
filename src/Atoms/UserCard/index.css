@@ -1,0 +1,10 @@
+.image{
+
+    border-style: ridge;
+    border-radius: 20px;
+    width: 480px;
+    height: 200px;
+    display: flex;
+    display: inline-grid;
+    margin-left: 16%;
+}
